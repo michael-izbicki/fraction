@@ -2,6 +2,8 @@
 This code comes from https://runestone.academy/runestone/books/published/pythonds/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html#a-fraction-class
 '''
 
+# Added this comment on github
+
 def gcd(m,n):
     while m%n != 0:
         oldm = m
